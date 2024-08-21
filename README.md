@@ -63,10 +63,10 @@ As shown in the above workflow; we are first performing necessary cleaning and t
 Finally; we leverage the clean & analysis-ready dataset for exploratory data analysis (EDA) using Jupyter Notebook and creating an insightful report using Power BI.
 
 
-##Demo Dashboard 
+## **Demo Dashboard** 
 For interactive Power BI dashboard click below Sample snippet:
 
-[![Power BI Dashboard][dashboard_image]][dashboard_link]
+![Power BI Dashboard][dashboard_image]
 
 
 
